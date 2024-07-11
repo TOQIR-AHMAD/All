@@ -541,7 +541,7 @@ div .footer-wave {
 
 .listar-feature-right-border {
   position: absolute;
-  width: calc(100% + 24px);
+  /* width: calc(100% + 24px); */
   height: calc(100% + 24px);
   top: -12px;
   left: 50%;
